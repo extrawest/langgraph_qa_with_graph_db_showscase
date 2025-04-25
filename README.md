@@ -1,6 +1,10 @@
 # LangGraph Q&A with Neo4j Graph Database
 
-![LangGraph + Neo4j](https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/static/img/langchain_langgraph.png)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]()
+[![Maintainer](https://img.shields.io/static/v1?label=Yevhen%20Ruban&message=Maintainer&color=red)](mailto:yevhen.ruban@extrawest.com)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)]()
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+![GitHub release](https://img.shields.io/badge/release-v1.0.0-blue)
 
 A showcase implementation demonstrating how to build an intelligent Q&A system using LangGraph and Neo4j Graph Database. This project combines the power of Large Language Models (LLMs) with graph database capabilities to answer questions about movie data.
 
@@ -92,19 +96,3 @@ The movie database includes:
 
 ![visualisation](https://github.com/user-attachments/assets/034dc4ea-28f1-400d-b6b8-2c6afa60d0c3)
 ![visualisation(1)](https://github.com/user-attachments/assets/cd10c772-3e27-43c8-a29a-a6aa246442d9)
-
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check issues page.
-
-## 🔮 Future Work
-
-- Support for more complex queries
-- Integration with additional data sources
-- User interface for easier interaction
-- Support for additional languages
