@@ -90,6 +90,10 @@ The movie database includes:
 
 ### Graph Visualization
 
+![visualisation](https://github.com/user-attachments/assets/034dc4ea-28f1-400d-b6b8-2c6afa60d0c3)
+![visualisation(1)](https://github.com/user-attachments/assets/cd10c772-3e27-43c8-a29a-a6aa246442d9)
+
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
